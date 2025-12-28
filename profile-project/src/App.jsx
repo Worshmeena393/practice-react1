@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className='page'>
-      <Profilepage User={user1}></Profilepage>
+      <Profilepage user={user1}></Profilepage>
     </div>
   )
 }
